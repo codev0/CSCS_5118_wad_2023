@@ -1,1 +1,1 @@
-# CSCS_5118_wad_2023
+# CSCS 5118. Web Application Development Fall 2023 MS SWE Airat Zhanshuakov
